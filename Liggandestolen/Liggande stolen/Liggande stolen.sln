@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Liggande stolen", "Liggande stolen\Liggande stolen.csproj", "{D70DB76D-9E1F-4340-96D2-04BD101FE8F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D70DB76D-9E1F-4340-96D2-04BD101FE8F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D70DB76D-9E1F-4340-96D2-04BD101FE8F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D70DB76D-9E1F-4340-96D2-04BD101FE8F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D70DB76D-9E1F-4340-96D2-04BD101FE8F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C8165BB-5DBC-44B3-AAED-93CB86808821}
+	EndGlobalSection
+EndGlobal
